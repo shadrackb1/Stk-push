@@ -1,10 +1,8 @@
-﻿# Stk push
+# STK Push Sandbox
 
-Project workspace.
+<img src="./assets/header.svg" width="100%" alt="STK Push Sandbox" />
 
-## Stack
-
-HTML Â· CSS Â· JavaScript
+M-Pesa STK Push integration sandbox.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ HTML Â· CSS Â· JavaScript
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
