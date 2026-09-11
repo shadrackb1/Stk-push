@@ -1,11 +1,16 @@
-<div align="center">
+﻿# Stk push
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Project workspace.
 
-  <h1>Built with AI Studio</h2>
+## Stack
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+HTML Â· CSS Â· JavaScript
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Run locally
 
-</div>
+    npm install
+    npm run dev
+
+## License
+
+Private / all rights reserved.
